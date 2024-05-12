@@ -9,6 +9,10 @@ Daily doses of SQL insights and queries await you here. Dive into our repository
 - Codecademy SQL Course - Comprehensive SQL course with hands-on projects.
 - Coursera - Learn SQL Basics for Data Science - Beginner-friendly SQL course tailored for data science.
 
+### Updated news articles on SQL 
+   <a href="https://www.bleepingcomputer.com/tag/sql/"> SQL </a>
+
+
 ### Documentation 📃
 - PostgreSQL Documentation - Official documentation for PostgreSQL, a powerful open-source relational database.
 - MySQL Documentation - Official documentation for MySQL, another popular open-source relational database.
